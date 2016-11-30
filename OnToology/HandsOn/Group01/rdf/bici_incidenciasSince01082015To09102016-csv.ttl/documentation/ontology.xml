@@ -1,0 +1,740 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:group01="http://www.semanticweb.org/group01/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/141">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/96">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/128">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/82">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/243">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/118">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/206">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/131">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/197">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/226">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/69">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/40">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/170">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/12">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/0">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/169">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/159">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/79">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/180">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/50">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/97">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/129">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/219">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/39">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/140">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/168">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/205">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/130">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/119">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/29">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/83">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/42">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/225">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/171">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/11">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/41">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/196">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/158">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/239">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/51">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/181">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/98">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/143">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/157">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/94">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/53">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/218">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/208">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/28">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/84">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/116">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/241">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/14">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/199">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/228">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/67">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/238">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/182">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/52">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/156">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/95">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/27">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/217">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/142">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/54">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/207">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/85">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/242">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/117">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/198">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/13">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/68">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/227">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/86">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/183">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/237">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/202">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/36">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/45">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/26">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/55">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/216">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/103">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/92">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/74">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/75">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/65">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/16">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/46">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/35">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/56">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/93">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/25">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/215">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/102">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/76">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/15">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/66">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/229">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/201">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/43">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/38">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/204">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/9">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/62">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/80">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/57">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/90">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/214">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/24">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/18">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/77">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/101">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/44">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/37">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/81">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/203">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/63">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/91">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/213">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/23">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/58">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/78">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/100">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/17">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/64">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/138">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/110">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/188">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/178">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/212">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/148">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/120">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/71">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/232">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/107">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/160">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/22">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/59">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/150">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/49">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/32">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/61">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/8">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/139">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/111">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/189">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/30">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/211">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/179">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/121">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/149">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/231">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/70">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/21">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/151">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/106">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/7">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/161">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/31">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/60">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/200">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/136">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/191">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/210">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/122">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/176">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/105">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/20">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/230">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/73">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/220">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/34">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/47">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/162">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/6">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/137">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/190">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/177">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/123">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/104">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/72">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/163">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/5">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/33">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/48">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/124">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/174">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/236">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/193">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/184">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/88">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/4">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/164">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/114">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/240">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/134">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/222">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/144">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/154">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/192">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/235">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/175">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/185">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/3">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/87">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/115">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/135">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/165">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/221">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/155">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/145">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/125">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/172">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/112">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/2">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/224">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/186">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/195">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/10">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/132">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/166">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/19">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/126">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/209">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/152">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/109">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/234">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/146">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/173">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/147">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/99">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/187">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/113">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/89">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/1">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/194">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/223">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/133">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/167">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/127">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/TOTAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/153">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/233">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/SEÑALIZACION"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/group01/108">
+    <rdfs:label rdf:resource="http://www.semanticweb.org/group01/resource/BICICLETAPUBLICA"/>
+  </rdf:Description>
+</rdf:RDF>
